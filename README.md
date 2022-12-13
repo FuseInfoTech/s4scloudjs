@@ -7,5 +7,5 @@ https://fuseit.com/products/s4s-cloud-connector/
 ## s4scloud.min.js
 This is the main client library. To include on your website:
 ```
-<script>(function(s4s,c,l,o,u,d){l[c]=l[c]||{};d=document.createElement('script');d.onload=function(){l[c].init(o,u);};d.src=s4s;document.head.appendChild(d);})('https://cdn.jsdelivr.net/gh/FuseInfoTech/s4scloudjs@v0.3.0.22339/s4scloud.min.js', 'S4SCloud', window, '<service_url>', '<shared_key>');</script>
+<script>(function(s4s,c,l,o,u,d){l[c]=l[c]||{};d=document.createElement('script');d.onload=function(){l[c].init(o,u);};d.src=s4s;document.head.appendChild(d);})('https://cdn.jsdelivr.net/gh/FuseInfoTech/s4scloudjs@v0.4.0.22347/s4scloud.min.js', 'S4SCloud', window, '<service_url>', '<shared_key>');</script>
 ```
